@@ -29,10 +29,8 @@ Dataset berupa gambar daun dengan format .jpg berwarna berukuran 128x128 piksel 
 - Model dilatih menggunakan data noisy sebagai input dan clean sebagai target.
 
 
-
 ### 3. Visualisasi Hasil
 Menampilkan perbandingan antara gambar noisy, hasil denoising, dan gambar asli.
-
 
 
 ### 4. Simpan Model
